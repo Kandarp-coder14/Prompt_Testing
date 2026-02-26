@@ -15,7 +15,7 @@ The repository includes:
 
 ## 3. Project Structure
 ```text
-prompt-qa-mlops-showcase/
+Prompt_Testing/
   data/
     test_cases.json
   reports/
@@ -23,6 +23,7 @@ prompt-qa-mlops-showcase/
     candidate_report.json
     compare_report.json
   src/
+    __init__.py
     evaluator.py
     main.py
     models.py
